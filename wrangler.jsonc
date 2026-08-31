@@ -1,0 +1,22 @@
+{
+	"name": "workers-for-platforms-example-project",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-09-22",
+	"dispatch_namespaces": [
+		{
+			"binding": "dispatcher",
+			"namespace": "workers-for-platforms-example-project",
+			"remote": true
+		}
+	],
+	"kv_namespaces": [
+		{
+			"binding": "WORKER_MAPPINGS",
+			"id": "f983cffdb3984d4e91bcbae42d79cb7e",
+			"preview_id": "placeholder-preview-kv-id"
+		}
+	],
+	"vars": {
+		"DISPATCH_NAMESPACE_NAME": "workers-for-platforms-example-project"
+	}
+}
